@@ -189,16 +189,16 @@ Day 4-5: 绿冲 + 两个后续
   目标: 10/10
 
 Day 6-7: 完整绿冲BnB
-  Ryu: 2MK > DR > 5MP > 5HP xx 623HP
-  Ken: 2MK > DR > 2MP > 5HP xx 623HP
+  Ryu: 2MK > DRC > 5HP > 4HP xx 623HP
+  Ken: 2MK > DRC > 2MP > 5HP xx 623HP
   目标: 7/10
 
-=== 第三周: 必杀技取消绿冲 ===
+=== 第三周: 绿冲扩展 ===
 
-Day 1-3: 波动拳取消绿冲
-  Ryu: 2MK xx 236MP xx DR(MP+MK) > 5MP > 5HP xx 623HP
+Day 1-3: DRC 接 4HP > 236HK 路线
+  Ryu: 2MK xx DRC > 5HP > 4HP xx 236HK (角落 > 623MP)
   Ken: 2MK xx 236LK xx DR(MP+MK) > 2MP > 5HP xx 623HP
-  分解练: 先练 236P/K xx MP+MK 这一步
+  分解练: Ryu先练 4HP xx 236HK 这一步（4HP距离极短需贴身）
   目标: 5/10 先能出来
 
 Day 4-7: 完整连招
@@ -407,39 +407,39 @@ Day 4-7: 完整Ken BnB
 === 铜牌级（基础操作）===
 [ ] 236P（波动拳）左右各 10/10
 [ ] 623HP（重升龙）左右各 10/10
-[ ] 2MK xx 236P（蹲中脚取消波动拳）左右各 8/10
+[ ] 2MK xx 214MK（蹲中脚取消龙卷）左右各 8/10
 [ ] 对空: dummy 随机跳，623HP 对空成功率 > 6/10
-[ ] 基础连招: 5MP > 5HP xx 623HP 左右各 8/10
+[ ] 基础连招: 5MP > 2MP xx 623HP 左右各 8/10
 通过 = 可以打银段
 
 === 银牌级（连招确认）===
-[ ] 2LP > 2LP > 5LK xx 214LK 左右各 8/10
+[ ] 2LK > 2LP > 5LP xx 214LK 左右各 8/10
 [ ] j.HP > 5HP > 2HP xx 623HP 左右各 8/10
 [ ] 2HK(sweep) 后 22PP(电刃蓄力) 8/10
 [ ] Hit Confirm: dummy随机block，2MK命中→接连招，被防→不出 7/10
 通过 = 可以打金段
 
 === 金牌级（绿冲连招）===
-[ ] 2MK xx DR > 5MP > 5HP xx 623HP 左右各 7/10
-[ ] 2MK xx 236MP xx DR > 5MP > 5HP xx 623HP 左右各 5/10
-[ ] DI(墙贴) > 5HP > 2HP xx 214HK > 623HP 7/10
-[ ] 被DP后惩罚: 5HP > 2HP xx 214HK > 623HP 8/10
+[ ] 2MK xx DRC > 5HP > 4HP xx 623HP 左右各 7/10
+[ ] DI(墙贴) > 5HK > 2MK xx 623HP 7/10
+[ ] 被DP后惩罚: PC 236HK xx SA1 (3560伤害!) 8/10
+[ ] 被DP后惩罚: 5HK > 2MK xx 623HP (无资源) 8/10
 通过 = 可以打白金段
 
 === 白金级（高级运用）===
-[ ] 电刃状态: 2MK xx 236MP(DR) > 5MP > 5HP xx 236HP(Denjin) 5/10
+[ ] 电刃状态: DJ 214HP 命中 > PDR 5HP > 214LP > 2HK 5/10
 [ ] 对空623HP xx SA1 左右各 5/10
 [ ] Perfect Parry > 最大惩罚连招 3/10
-[ ] 完整起攻: 623HP击倒 > 前步 > meaty 2MK > 确认连招 7/10
-[ ] DR连招 + Hit Confirm 同时: dummy随机block 5/10
+[ ] 完整起攻: 623HP击倒 > PDR > meaty 6MP > 确认连招 7/10
+[ ] DRC连招 + Hit Confirm 同时: dummy随机block 5/10
 通过 = 可以冲钻石
 
 === 钻石级（全面掌握）===
-[ ] 2MK xx 236MP xx DR > 5MP > 5HP xx 214HK > 623HP 左右 7/10
-[ ] 电刃蓄力后1个连招内完成爆发 + 回到中立
-[ ] 角落最大伤害连招 > SA3收尾 5/10
+[ ] PC 5HK > 5HP > DRC loop > SA3 (5539+伤害) 左右 5/10
+[ ] 电刃循环: sweep > 22PP > 起攻 > DJ 214HP追击 完整流程 5/10
+[ ] 角落236LK Safe Jump setup 后起攻 5/10
 [ ] Hit Confirm 1-hit: 5MP命中/被防在1次攻击内判断 5/10
-[ ] Safe Jump setup 后起攻 5/10
+[ ] Burnout削血循环: 2MP xx 214PP 反复 3/10
 通过 = 大师段水平
 ```
 
@@ -459,23 +459,23 @@ Hitbox冲刺 66: 20次
 **必须每天练的4条连招：**
 ```
 连招1 (日常确认):
-  2MK xx 236MP
-  → 这是你在对战中用得最多的确认
+  2MK xx 214MK 或 2MK xx 236MK
+  → 214MK=龙卷(1300伤), 236MK=足刀蹴(1460伤,可蓄DJ!)
   → 左右各 10 次 → 标准: 9/10
 
 连招2 (绿冲BnB):
-  2MK xx DR > 5MP > 5HP xx 623HP
-  → 绿冲核心
+  2MK xx DRC > 5HP > 4HP xx 623HP
+  → Ryu核心DRC路线（4HP是连接236HK的关键普技）
   → 左右各 10 次 → 标准: 8/10
 
-连招3 (波动拳绿冲BnB):
-  2MK xx 236MP xx DR > 5MP > 5HP xx 623HP
-  → 最强日常连招
+连招3 (绿冲扩展):
+  2MK xx DRC > 5HP > 4HP xx 236HK > 623MP (角落)
+  → 角落最大伤害DRC路线
   → 左右各 10 次 → 标准: 7/10
 
 连招4 (惩罚连招):
-  5HP > 2HP xx 214HK > 623HP
-  → 对手失误时拿出来
+  5HK > 2MK xx 623HP
+  → 2520伤害，DI崩溃/DP被防后
   → 左右各 10 次 → 标准: 8/10
 ```
 
@@ -486,12 +486,13 @@ Hitbox冲刺 66: 20次
   214HK(龙卷) > 22PP — 龙卷后蓄力
 
 练习2: 电刃连招
-  (Denjin) 2MK xx 236HP(电刃波动) — 看电刃波的效果
-  (Denjin) 5HP xx 623HP(电刃升龙) — 感受伤害提升
+  (DJ) 2MK xx DJ 214HP(电刃波掌,防+3!) — 波掌撃LAUNCH追击
+  (DJ) DJ 214HP > PDR 5HP > 214LP > 2HK — 2487伤害 1格Drive
+  (DJ) DJ 214HP > 214MK — 1800伤害 最简单追击
 
 练习3: 完整电刃流程
-  2HK > 22PP(蓄力) > 前步 > meaty 2MK xx 236MP(Denjin) xx DR > 连招
-  = sweep → 蓄力 → 起攻 → 电刃连招
+  2HK > 22PP(蓄力) > 前冲 > meaty 5HP > DJ 214HP > 追击
+  = sweep → 蓄力 → 起攻 → 电刃波掌追击
 ```
 
 #### D. Hit Confirm 专练 (10分钟)
@@ -499,13 +500,14 @@ Hitbox冲刺 66: 20次
 设置: dummy = Random Block
 
 练习1: 2MK 确认
-  命中 → 2MK xx 236MP（或 2MK xx DR > 连招）
+  命中 → 2MK xx 214MK 或 236MK（龙卷或足刀蹴）
   被防 → 什么都不按，退回中立
+  ※ 236MK击倒后可安全蓄电刃!
   目标: 连续做对 7 次
 
-练习2: 5MP > 5HP 双hit确认
-  命中 → 5MP > 5HP xx 623HP
-  被防 → 5MP > 5HP xx 236LP(波动拳，安全)
+练习2: 5MP > 2MP 双hit确认
+  命中 → 5MP > 2MP xx 623HP
+  被防 → 5MP > 2MP xx 236LP(波动拳，安全)
   → 两下都命中才接升龙，否则接波动拳（安全）
 
 练习3: 对空确认
@@ -519,18 +521,19 @@ Hitbox冲刺 66: 20次
 ```
 设置: dummy = Quick Rise + Random Guard + Random Reversal
 
-练习1: 升龙后起攻
-  623HP 命中 > 前步 > 2MK(meaty)
+练习1: 升龙后起攻 (+29~38)
+  623HP 命中 > PDR > meaty 6MP (+7oH/+9cH/+3oB)
+  角落: 调节5LP > meaty LP波掌(214LP) (+7oH/LAUNCH cH!/+2oB)
   → 如果 dummy 防了 = meaty 成功（显示 "Meaty"）
-  → 如果 dummy DP → 你被打 = 正常，这是猜拳
 
-练习2: 龙卷后起攻
-  214HK 命中 > 直接 5MP(meaty) / 投
-  → 龙卷后距离近，可以直接择
+练习2: sweep后起攻 (HKD+32)
+  2HK > 前冲 > meaty 5HP (+8oH/+10cH/+2oB)
+  或: 2HK > meaty HP波掌(214HP) — DI安全! LAUNCH on hit!
+  进阶: 2HK > 22PP(蓄力) > 起攻 — 时间刚好够
 
-练习3: sweep后起攻（含电刃）
-  2HK > 22PP(蓄力) > 前步 > meaty 2MK
-  → 关键: 蓄力后还有时间做meaty吗？练时机
+练习3: 足刀蹴后蓄电刃 (+40~46)
+  2MK xx 236MK 击倒 > 22PP蓄力 — 所有非OD版中屏可安全蓄DJ!
+  角落: 236LK 击倒 > Safe Jump!（自动时机跳攻击）
 ```
 
 ---
